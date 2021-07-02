@@ -47,8 +47,7 @@ We use /var/log host folder to /mnt/log container folder.
 
 ## Authors
 
-* **Alejandro Bejarano** - *Initial work* 
-
+* **Alejandro Bejarano** -
 
 See also the list of [contributors]() who 
 participated in this project.
