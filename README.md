@@ -1,6 +1,6 @@
 # Fluentd&Logrotate Container
 
-Custom image from fluentd to make available the monitoring and retain of Wabi Rusia logs.
+Custom image from fluentd to make available the monitoring and retain of logs.
 
 ## Getting Started
 
